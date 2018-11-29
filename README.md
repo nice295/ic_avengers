@@ -2,7 +2,7 @@
 
 Gameone Team Site [Link](http://www.gameone.kr/club/?club_idx=22853)
 
-## Previous Logo
+## Current Logo
 <img width="200px" height="200px" src="./ic_current.png">
 
 ## Team Uniform
