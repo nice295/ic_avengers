@@ -1,6 +1,6 @@
 # New Logo for Avengers Baseball Team, [Link](https://nice295.github.io/ic_avengers/)
 
-Gameone Team Site [Link](http://www.gameone.kr/club/?club_idx=22853)
+Team Site on Game One [Link](http://www.gameone.kr/club/?club_idx=22853)
 
 ## Current Logo
 <img width="200px" height="200px" src="./ic_current.png">
@@ -8,10 +8,12 @@ Gameone Team Site [Link](http://www.gameone.kr/club/?club_idx=22853)
 ## Team Uniform
 <img width="200px" height="200px" src="./uniform.jpg">
 
-# New icons
-[Download all icons](./ic-averngers.zip)
+# New Logos
+[Download all logos](./ic-averngers.zip)
 ### Type A
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-a.jpg">
+
+### Type A (Variations)
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-a-1.jpg">
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-a-2.jpg">
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-a-3.jpg">
@@ -21,5 +23,7 @@ Gameone Team Site [Link](http://www.gameone.kr/club/?club_idx=22853)
 
 ### Type B
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-b.jpg">
+
+### Type B (Variations)
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-b-1.jpg">
 <img width="200px" height="200px" src="./ic-averngers/ic-avengers-b-2.jpg">
